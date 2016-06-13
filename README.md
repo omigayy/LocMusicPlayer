@@ -1,5 +1,5 @@
 # LocMusicPlayer
-A location sensitive music player  
+A location sensitive android music player  
   
   
   
